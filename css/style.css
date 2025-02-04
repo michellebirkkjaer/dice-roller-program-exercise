@@ -47,3 +47,11 @@ input {
 figure#diceImages img {
     width: 30%;
 }
+
+#diceResult{
+    margin: 25px;
+}
+#diceImages img{
+    width: 150px;
+    margin:  5px;
+}
